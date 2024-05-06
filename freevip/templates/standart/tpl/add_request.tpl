@@ -134,25 +134,9 @@
                 </div>    
             </div>
 
-            <div class="col-md-6">
-                <div class="form-group">
-                    <label for="signa">
-                        Сигна
-                    </label>
-
-                    <div class="customInputFile">
-                        <input type="file" class="resetInputFile" id="signa" accept="image/*">
-
-                        <span class="selectedFile">
-
-                        </span>
-
 <!--                         <button class="selectFileBtn">
                             Выберите файл
                         </button> -->
-                    </div>
-                </div>
-            </div>
         </div>
 
         <script>
