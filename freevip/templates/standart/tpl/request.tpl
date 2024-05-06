@@ -106,16 +106,6 @@
             </div>
         </div>
 
-        <div class="col-md-4">
-            <div class="block">
-                <div class="block_head">
-                    Сигна
-                </div>
- 
-                {signa} 
-            </div>
-        </div>
-
         <?php if(isAccessed($module)) { ?>
         <div class="col-md-8">
             <div class="block">
